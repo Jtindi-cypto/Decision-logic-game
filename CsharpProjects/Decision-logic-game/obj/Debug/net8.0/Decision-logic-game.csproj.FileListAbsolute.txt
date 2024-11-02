@@ -1,0 +1,15 @@
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/bin/Debug/net8.0/Decision-logic-game
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/bin/Debug/net8.0/Decision-logic-game.deps.json
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/bin/Debug/net8.0/Decision-logic-game.runtimeconfig.json
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/bin/Debug/net8.0/Decision-logic-game.dll
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/bin/Debug/net8.0/Decision-logic-game.pdb
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/obj/Debug/net8.0/Decision-logic-game.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/obj/Debug/net8.0/Decision-logic-game.AssemblyInfoInputs.cache
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/obj/Debug/net8.0/Decision-logic-game.AssemblyInfo.cs
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/obj/Debug/net8.0/Decision-logic-game.csproj.CoreCompileInputs.cache
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/obj/Debug/net8.0/Decision-logic-game.sourcelink.json
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/obj/Debug/net8.0/Decision-logic-game.dll
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/obj/Debug/net8.0/refint/Decision-logic-game.dll
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/obj/Debug/net8.0/Decision-logic-game.pdb
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/obj/Debug/net8.0/Decision-logic-game.genruntimeconfig.cache
+/workspaces/Decision-logic-game/CsharpProjects/Decision-logic-game/obj/Debug/net8.0/ref/Decision-logic-game.dll
